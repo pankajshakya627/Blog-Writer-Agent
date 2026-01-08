@@ -27,3 +27,4 @@ env/
 *.swo
 output/digests/*.html
 output/*.md
+*.*
